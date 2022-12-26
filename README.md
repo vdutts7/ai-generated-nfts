@@ -1,6 +1,6 @@
 # AI-Generative-NFT-Collection
 
-##Prerequisites
+## Prerequisites
 1. Create an account here --> https://vanity-eth.tk/
 2. Acquire ether via Ropsten test network --> https://faucet.egorfine.com/
 3. Make .env file with Ropsten url and private key
