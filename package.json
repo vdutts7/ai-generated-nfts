@@ -23,7 +23,7 @@
     "solidity-coverage": "^0.7.18"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.4.2",
+    "@openzeppelin/contracts": "^4.7.3",
     "chai-as-promised": "^7.1.1"
   }
 }
