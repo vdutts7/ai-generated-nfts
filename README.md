@@ -1,5 +1,8 @@
 # AI-Generative-NFT-Collection
 
+<img width="720" alt="r" src="https://user-images.githubusercontent.com/63992417/210648234-5408dc64-6bdf-47fd-9496-73079ed1aa9b.png">
+
+
 ## Steps
 1. Create an account here --> https://vanity-eth.tk/
 2. Acquire ether via Ropsten test network --> https://faucet.egorfine.com/
