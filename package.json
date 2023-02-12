@@ -13,14 +13,14 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^3.4.1",
     "eslint-plugin-promise": "^5.2.0",
-    "ethereum-waffle": "^3.4.0",
+    "ethereum-waffle": "^4.0.9",
     "ethers": "^5.5.3",
     "hardhat": "^2.8.3",
     "hardhat-gas-reporter": "^1.0.7",
     "prettier": "^2.5.1",
     "prettier-plugin-solidity": "^1.0.0-beta.19",
     "solhint": "^3.3.6",
-    "solidity-coverage": "^0.7.18"
+    "solidity-coverage": "^0.8.2"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.4.2",
