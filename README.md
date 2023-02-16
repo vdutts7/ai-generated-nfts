@@ -1,13 +1,24 @@
-# AI-Generative-NFT-Collection
+# AI Generated NFT Collection
+
+## Overview
+
+I put together a framework template to create and mint your own Generative NFT Collection like Bored Ape Yacht Club and CryptoKitties. With this template (steps below), you will be able to:
+
+- Generate thousands of AI images with unique characteristics (also called "properties")  via DALL-E
+- Upload .jpg metadata to IPFS via Pinata
+- Create + deploy basic ERC-721 Smart Contract via RemixIDE using Solidity and existing Ether.js, Web3.js libraries (this may change in the future, please chec OpenZeppelin for most recent templates if encountering errors)
+- Bulk mint on OpenSea marketplace as a publicly available NFT collection
+
+<strong>Tools and technologies used:</strong> DALL-E, IPFS, Pinata, OpenZeppelin, Solidity, RemixIDE, Hardhat
 
 <img width="720" alt="r" src="https://user-images.githubusercontent.com/63992417/210648234-5408dc64-6bdf-47fd-9496-73079ed1aa9b.png">
 
 
-## Steps
+## Steps (NFT collection of size 10 used in example)
 1. Create an account here --> https://vanity-eth.tk/
 2. Acquire ether via Ropsten test network --> https://faucet.egorfine.com/
 3. Make .env file with Ropsten url and private key
-4. Deploy to hardhat network (local dev blockchain) <br />
+4. Deploy to Hardhat network (local dev blockchain) <br />
    npx hardhat run --network localhost scripts/deploy.js
 5. Deploy to Ropsten <br />
    npx hardhat run --network ropsten scripts/deploy.js
