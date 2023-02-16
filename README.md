@@ -2,14 +2,14 @@
 
 ## Overview
 
-I put together a framework template to create and mint your own Generative NFT Collection like Bored Ape Yacht Club and CryptoKitties. With this template (steps below), you will be able to:
+I put together a framework to create and mint your own Generative NFT Collection like Bored Ape Yacht Club and CryptoPunks. With this template (steps below), you will be able to:
 
-- Generate thousands of AI images with unique characteristics (also called "properties")  via DALL-E
+- Generate thousands of AI images with unique characteristics (also called "properties") via DALL-E
 - Upload .jpg metadata to IPFS via Pinata
 - Create + deploy basic ERC-721 Smart Contract via RemixIDE using Solidity and existing Ether.js, Web3.js libraries (this may change in the future, please chec OpenZeppelin for most recent templates if encountering errors)
 - Bulk mint on OpenSea marketplace as a publicly available NFT collection
 
-<strong>Tools and technologies used:</strong> DALL-E, IPFS, Pinata, OpenZeppelin, Solidity, RemixIDE, Hardhat
+<strong>Tools and technologies used:</strong> DALL-E, IPFS, Pinata, RemixIDE, OpenZeppelin, Ether.js, Web3.js, Smart Contracts, Solidity, Hardhat, OpenSea.
 
 <img width="720" alt="r" src="https://user-images.githubusercontent.com/63992417/210648234-5408dc64-6bdf-47fd-9496-73079ed1aa9b.png">
 
